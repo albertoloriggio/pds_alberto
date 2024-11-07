@@ -1,1 +1,1 @@
-#This is the assignment 2
+This is the assignment 2
